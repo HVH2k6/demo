@@ -1,0 +1,16 @@
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+.ds-anh{
+    display: flex;
+    align-items: center;
+}
+#anh1{
+    margin-right: 10px;
+}
+.ds-anh img{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
